@@ -2,6 +2,7 @@
 This repository contains the necessary code to process the output from MutateX and ClinVar information into the principal component biplots. 
 
 The contents are structured as follows:
+<pre> 
 ├── 00_datasets
 │   ├── processed
 │   │   ├── clinvar.txt
@@ -29,4 +30,4 @@ The contents are structured as follows:
 │   ├── res_wt_full.png
 │   └── res_wt_zoom.png
 └── LICENSE
-
+</pre>
