@@ -1,0 +1,288 @@
+Residue,residue_type,Clinical_significance,MUT,Mutated_residue,Exposure,RSA,Chain
+AV1,Hydrophobic,Undocumented,Undocumented,Undocumented,Exposed,0.8299680948257446,Alpha
+AL2,Hydrophobic,Likely benign,Basic,AR2,Buried,0.16834542155265808,Alpha
+AS3,Polar,Undocumented,Undocumented,Undocumented,Exposed,0.3757404386997223,Alpha
+AP4,Special,Undocumented,Undocumented,Undocumented,Exposed,0.7881289124488831,Alpha
+AA5,Hydrophobic,Uncertain significance,Acidic,AD5,Exposed,0.5841251015663147,Alpha
+AD6,Acidic,Uncertain significance,Basic,AH6,Buried,0.1308530867099762,Alpha
+AK7,Basic,Likely benign,Polar,AN7,Buried,0.23828013241291046,Alpha
+AT8,Polar,Undocumented,Undocumented,Undocumented,Exposed,0.6371294260025024,Alpha
+AN9,Polar,Uncertain significance,Basic,AK9,Exposed,0.37490114569664,Alpha
+AV10,Hydrophobic,Uncertain significance,Acidic,AD10,Buried,0.013440433889627457,Alpha
+AK11,Basic,Undocumented,Undocumented,Undocumented,Exposed,0.39146265387535095,Alpha
+AA12,Hydrophobic,Uncertain significance,Acidic,AD12,Exposed,0.5128982067108154,Alpha
+AA13,Hydrophobic,Uncertain significance,Special,AP13,Buried,0.09468728303909302,Alpha
+AW14,Aromatic,Pathogenic,Basic,AR14,Buried,0.058887142688035965,Alpha
+AG15,Special,Likely pathogenic,Special,AC15,Exposed,0.5823260545730591,Alpha
+AK16,Basic,Likely benign,Acidic,AE16,Exposed,0.5078124403953552,Alpha
+AV17,Hydrophobic,Undocumented,Undocumented,Undocumented,Buried,0.020992916077375412,Alpha
+AG18,Special,Uncertain significance,Polar,AS18,Exposed,0.3311464786529541,Alpha
+AA19,Hydrophobic,Undocumented,Undocumented,Undocumented,Exposed,0.8029459118843079,Alpha
+AH20,Basic,Likely benign,Polar,AQ20,Exposed,0.45370185375213623,Alpha
+AA21,Hydrophobic,Uncertain significance,Special,AP21,Buried,0.16183482110500336,Alpha
+AG22,Special,Undocumented,Undocumented,Undocumented,Exposed,0.5953329205513,Alpha
+AE23,Acidic,Uncertain significance,Basic,AK23,Exposed,0.6107195615768433,Alpha
+AY24,Aromatic,Pathogenic,Acidic,AD24,Buried,0.1973048746585846,Alpha
+AG25,Special,Undocumented,Undocumented,Undocumented,Buried,0.02412252314388752,Alpha
+AA26,Hydrophobic,Uncertain significance,Polar,AT26,Buried,0.18875424563884735,Alpha
+AE27,Acidic,Uncertain significance,Acidic,AD27,Exposed,0.3926982879638672,Alpha
+AA28,Hydrophobic,Undocumented,Undocumented,Undocumented,Buried,0.030103065073490143,Alpha
+AL29,Hydrophobic,Pathogenic,Special,AP29,Buried,0.00992343295365572,Alpha
+AE30,Acidic,Uncertain significance,Basic,AK30,Exposed,0.33121737837791443,Alpha
+AR31,Basic,Pathogenic,Polar,AS31,Exposed,0.3871091902256012,Alpha
+AM32,Hydrophobic,Pathogenic,Basic,AK32,Buried,0.02588699944317341,Alpha
+AF33,Hydrophobic,Undocumented,Undocumented,Undocumented,Buried,0.01696881279349327,Alpha
+AL34,Hydrophobic,Uncertain significance,Basic,AR34,Exposed,0.5338085293769836,Alpha
+AS35,Polar,Likely pathogenic,Special,AP35,Exposed,0.4997359812259674,Alpha
+AF36,Hydrophobic,Undocumented,Undocumented,Undocumented,Buried,0.167942076921463,Alpha
+AP37,Special,Undocumented,Undocumented,Undocumented,Exposed,0.5627962350845337,Alpha
+AT38,Polar,Undocumented,Undocumented,Undocumented,Exposed,0.5983211398124695,Alpha
+AT39,Polar,Undocumented,Undocumented,Undocumented,Buried,0.02540508471429348,Alpha
+AK40,Basic,Pathogenic,Hydrophobic,AM40,Exposed,0.36549508571624756,Alpha
+AT41,Polar,Uncertain significance,Hydrophobic,AA41,Exposed,0.6338649988174438,Alpha
+AY42,Aromatic,Undocumented,Undocumented,Undocumented,Buried,0.20740479230880737,Alpha
+AF43,Hydrophobic,Pathogenic,Hydrophobic,AV43,Buried,0.05672596022486687,Alpha
+AP44,Special,Likely pathogenic,Hydrophobic,AL44,Exposed,0.7044881582260132,Alpha
+AH45,Basic,Undocumented,Undocumented,Undocumented,Exposed,0.7968654632568359,Alpha
+AF46,Hydrophobic,Undocumented,Undocumented,Undocumented,Buried,0.22762899100780487,Alpha
+AD47,Acidic,Uncertain significance,Polar,AN47,Exposed,0.7867295145988464,Alpha
+AL48,Hydrophobic,Uncertain significance,Special,AP48,Buried,0.18055839836597443,Alpha
+AS49,Polar,Likely benign,Basic,AR49,Exposed,0.5843261480331421,Alpha
+AH50,Basic,Likely benign,Acidic,AD50,Exposed,0.7894198298454285,Alpha
+AG51,Special,Likely benign,Polar,AS51,Exposed,0.7445504665374756,Alpha
+AS52,Polar,Undocumented,Undocumented,Undocumented,Exposed,0.28217613697052,Alpha
+AA53,Hydrophobic,Undocumented,Undocumented,Undocumented,Exposed,0.6741558313369751,Alpha
+AQ54,Polar,Likely benign,Acidic,AE54,Exposed,0.5788976550102234,Alpha
+AV55,Hydrophobic,Undocumented,Undocumented,Undocumented,Buried,0.07972533255815506,Alpha
+AK56,Basic,Uncertain significance,Acidic,AE56,Exposed,0.4664894938468933,Alpha
+AG57,Special,Uncertain significance,Acidic,AD57,Exposed,0.4399086833000183,Alpha
+AH58,Basic,Undocumented,Undocumented,Undocumented,Buried,0.17342129349708557,Alpha
+AG59,Special,Pathogenic,Basic,AR59,Buried,0.027956997975707054,Alpha
+AK60,Basic,Undocumented,Undocumented,Undocumented,Exposed,0.46603262424468994,Alpha
+AK61,Basic,Pathogenic,Polar,AN61,Exposed,0.4357406198978424,Alpha
+AV62,Hydrophobic,Undocumented,Undocumented,Undocumented,Buried,0.027059132233262062,Alpha
+AA63,Hydrophobic,Undocumented,Undocumented,Undocumented,Buried,0.0695057362318039,Alpha
+AD64,Acidic,Likely benign,Polar,AN64,Exposed,0.5544218420982361,Alpha
+AA65,Hydrophobic,Undocumented,Undocumented,Undocumented,Buried,0.13767662644386292,Alpha
+AL66,Hydrophobic,Uncertain significance,Basic,AR66,Buried,0.008168579079210758,Alpha
+AT67,Polar,Uncertain significance,Hydrophobic,AI67,Exposed,0.34310030937194824,Alpha
+AN68,Polar,Likely benign,Basic,AK68,Exposed,0.5301008820533752,Alpha
+AA69,Hydrophobic,Undocumented,Undocumented,Undocumented,Buried,0.0167688075453043,Alpha
+AV70,Hydrophobic,Undocumented,Undocumented,Undocumented,Buried,0.05110205337405205,Alpha
+AA71,Hydrophobic,Likely benign,Acidic,AE71,Exposed,0.6026222705841064,Alpha
+AH72,Basic,Undocumented,Undocumented,Undocumented,Exposed,0.47971197962760925,Alpha
+AV73,Hydrophobic,Undocumented,Undocumented,Undocumented,Buried,0.05927861109375954,Alpha
+AD74,Acidic,Uncertain significance,Basic,AH74,Exposed,0.711815357208252,Alpha
+AD75,Acidic,Likely benign,Polar,AN75,Exposed,0.5623329877853394,Alpha
+AM76,Hydrophobic,Undocumented,Undocumented,Undocumented,Buried,0.1874212920665741,Alpha
+AP77,Special,Undocumented,Undocumented,Undocumented,Exposed,0.5130060315132141,Alpha
+AN78,Polar,Benign,Basic,AK78,Exposed,0.6150739789009094,Alpha
+AA79,Hydrophobic,Uncertain significance,Special,AG79,Buried,0.056416068226099014,Alpha
+AL80,Hydrophobic,Likely pathogenic,Basic,AR80,Buried,0.07307980209589005,Alpha
+AS81,Polar,Benign,Hydrophobic,AF81,Exposed,0.4966510534286499,Alpha
+AA82,Hydrophobic,Undocumented,Undocumented,Undocumented,Exposed,0.26643428206443787,Alpha
+AL83,Hydrophobic,Undocumented,Undocumented,Undocumented,Buried,0.01865690015256405,Alpha
+AS84,Polar,Likely benign,Basic,AR84,Exposed,0.27289244532585144,Alpha
+AD85,Acidic,Uncertain significance,Basic,AH85,Exposed,0.5441563129425049,Alpha
+AL86,Hydrophobic,Undocumented,Undocumented,Undocumented,Buried,0.0995156317949295,Alpha
+AH87,Basic,Likely pathogenic,Polar,AQ87,Buried,0.22949877381324768,Alpha
+AA88,Hydrophobic,Pathogenic,Polar,AS88,Exposed,0.3917786478996277,Alpha
+AH89,Basic,Likely benign,Polar,AQ89,Exposed,0.5265323519706726,Alpha
+AK90,Basic,Likely benign,Polar,AT90,Exposed,0.623526930809021,Alpha
+AL91,Hydrophobic,Uncertain significance,Hydrophobic,AI91,Exposed,0.5320679545402527,Alpha
+AR92,Basic,Pathogenic,Polar,AQ92,Exposed,0.6298615336418152,Alpha
+AV93,Hydrophobic,Undocumented,Undocumented,Undocumented,Buried,0.20001301169395447,Alpha
+AD94,Acidic,Pathogenic,Polar,AN94,Exposed,0.38241785764694214,Alpha
+AP95,Special,Likely pathogenic,Hydrophobic,AL95,Exposed,0.46358364820480347,Alpha
+AV96,Hydrophobic,Undocumented,Undocumented,Undocumented,Exposed,0.6170547008514404,Alpha
+AN97,Polar,Uncertain significance,Basic,AK97,Buried,0.14639970660209656,Alpha
+AF98,Hydrophobic,Uncertain significance,Aromatic,AY98,Buried,0.03909536078572273,Alpha
+AK99,Basic,Likely benign,Polar,AN99,Exposed,0.5833075046539307,Alpha
+AL100,Hydrophobic,Undocumented,Undocumented,Undocumented,Exposed,0.27737054228782654,Alpha
+AL101,Hydrophobic,Uncertain significance,Special,AP101,Buried,0.005555883981287479,Alpha
+AS102,Polar,Likely benign,Basic,AR102,Buried,0.09554483741521835,Alpha
+AH103,Basic,Likely pathogenic,Basic,AR103,Exposed,0.45292824506759644,Alpha
+AC104,Special,Pathogenic,Basic,AR104,Buried,0.047276102006435394,Alpha
+AL105,Hydrophobic,Undocumented,Undocumented,Undocumented,Buried,0.007506697438657284,Alpha
+AL106,Hydrophobic,Undocumented,Undocumented,Undocumented,Buried,0.07649996876716614,Alpha
+AV107,Hydrophobic,Undocumented,Undocumented,Undocumented,Exposed,0.26084691286087036,Alpha
+AT108,Polar,Likely pathogenic,Polar,AN108,Buried,0.025551611557602882,Alpha
+AL109,Hydrophobic,Pathogenic,Basic,AR109,Buried,0.006450433749705553,Alpha
+AA110,Hydrophobic,Likely pathogenic,Acidic,AD110,Buried,0.18637749552726746,Alpha
+AA111,Hydrophobic,Likely benign,Hydrophobic,AV111,Exposed,0.37580522894859314,Alpha
+AH112,Basic,Pathogenic,Polar,AQ112,Exposed,0.3206035792827606,Alpha
+AL113,Hydrophobic,Likely benign,Basic,AH113,Buried,0.11968693137168884,Alpha
+AP114,Special,Uncertain significance,Basic,AR114,Exposed,0.4778239130973816,Alpha
+AA115,Hydrophobic,Undocumented,Undocumented,Undocumented,Exposed,0.8725969791412354,Alpha
+AE116,Acidic,Likely benign,Hydrophobic,AA116,Exposed,0.6034908890724182,Alpha
+AF117,Hydrophobic,Undocumented,Undocumented,Undocumented,Buried,0.07757359743118286,Alpha
+AT118,Polar,Undocumented,Undocumented,Undocumented,Exposed,0.39710912108421326,Alpha
+AP119,Special,Pathogenic,Polar,AS119,Exposed,0.7531263828277588,Alpha
+AA120,Hydrophobic,Uncertain significance,Acidic,AE120,Exposed,0.5931457877159119,Alpha
+AV121,Hydrophobic,Uncertain significance,Acidic,AE121,Buried,0.06963170319795609,Alpha
+AH122,Basic,Uncertain significance,Polar,AQ122,Exposed,0.3257670998573303,Alpha
+AA123,Hydrophobic,Undocumented,Undocumented,Undocumented,Exposed,0.46118244528770447,Alpha
+AS124,Polar,Undocumented,Undocumented,Undocumented,Buried,0.1161828488111496,Alpha
+AL125,Hydrophobic,Pathogenic,Polar,AQ125,Buried,0.02295171283185482,Alpha
+AD126,Acidic,Pathogenic,Basic,AH126,Exposed,0.4918276369571686,Alpha
+AK127,Basic,Likely benign,Polar,AT127,Exposed,0.5451963543891907,Alpha
+AF128,Hydrophobic,Undocumented,Undocumented,Undocumented,Buried,0.03420206159353256,Alpha
+AL129,Hydrophobic,Likely pathogenic,Special,AP129,Buried,0.017510343343019485,Alpha
+AA130,Hydrophobic,Likely pathogenic,Special,AP130,Exposed,0.4705870747566223,Alpha
+AS131,Polar,Undocumented,Undocumented,Undocumented,Exposed,0.27507737278938293,Alpha
+AV132,Hydrophobic,Likely benign,Hydrophobic,AM132,Buried,0.013451901264488697,Alpha
+AS133,Polar,Undocumented,Undocumented,Undocumented,Buried,0.1709488034248352,Alpha
+AT134,Polar,Uncertain significance,Hydrophobic,AI134,Exposed,0.703886866569519,Alpha
+AV135,Hydrophobic,Undocumented,Undocumented,Undocumented,Exposed,0.2557761073112488,Alpha
+AL136,Hydrophobic,Pathogenic,Basic,AR136,Buried,0.047494348138570786,Alpha
+AT137,Polar,Uncertain significance,Hydrophobic,AI137,Exposed,0.5788759589195251,Alpha
+AS138,Polar,Uncertain significance,Special,AC138,Exposed,0.65297698974609375,Alpha
+AK139,Basic,Pathogenic,Acidic,AE139,Exposed,0.5736194252967834,Alpha
+AY140,Aromatic,Pathogenic,Basic,AH140,Exposed,0.4876653254032135,Alpha
+AR141,Basic,Pathogenic,Basic,AH141,Exposed,0.6292449831962585,Alpha
+BV1,Hydrophobic,Pathogenic,Hydrophobic,BL1,Exposed,0.7152422070503235,Beta
+BH2,Basic,Likely benign,Basic,BR2,Exposed,0.7148974537849426,Beta
+BL3,Hydrophobic,Uncertain significance,Polar,BQ3,Buried,0.15307234227657318,Beta
+BT4,Polar,Undocumented,Undocumented,Undocumented,Exposed,0.42212942242622375,Beta
+BP5,Special,Likely benign,Hydrophobic,BA5,Exposed,0.7314584255218506,Beta
+BE6,Acidic,Pathogenic,Hydrophobic,BV6,Exposed,0.7287944555282593,Beta
+BE7,Acidic,Pathogenic,Hydrophobic,BV121,Buried,0.21033409237861633,Beta
+BK8,Basic,Pathogenic,Acidic,BE8,Exposed,0.28888851404190063,Beta
+BS9,Polar,Uncertain significance,Special,BC9,Exposed,0.593307375907898,Beta
+BA10,Hydrophobic,Uncertain significance,Polar,BT10,Buried,0.24548830091953278,Beta
+BV11,Hydrophobic,Uncertain significance,Hydrophobic,BF11,Buried,0.012079939246177673,Beta
+BT12,Polar,Undocumented,Undocumented,Undocumented,Exposed,0.36895304918289185,Beta
+BA13,Hydrophobic,Benign,Polar,BT13,Exposed,0.5557072758674622,Beta
+BL14,Hydrophobic,Uncertain significance,Basic,BR14,Buried,0.08543369174003601,Beta
+BW15,Aromatic,Undocumented,Undocumented,Undocumented,Buried,0.07559768855571747,Beta
+BG16,Special,Uncertain significance,Acidic,BD16,Exposed,0.7189098596572876,Beta
+BK17,Basic,Undocumented,Undocumented,Undocumented,Exposed,0.5962440967559814,Beta
+BV18,Hydrophobic,Uncertain significance,Special,BG18,Buried,0.08599605411291122,Beta
+BN19,Polar,Pathogenic,Polar,BS19,Exposed,0.4992064833641052,Beta
+BV20,Hydrophobic,Pathogenic,Hydrophobic,BM20,Exposed,0.32427269220352173,Beta
+BD21,Acidic,Likely benign,Aromatic,BY21,Exposed,0.8450897932052612,Beta
+BE22,Acidic,Uncertain significance,Special,BG22,Exposed,0.48744019865989685,Beta
+BV23,Hydrophobic,Pathogenic,Hydrophobic,BI23,Buried,0.06619741767644882,Beta
+BG24,Special,Undocumented,Undocumented,Undocumented,Buried,0.04729294404387474,Beta
+BG25,Special,Undocumented,Undocumented,Undocumented,Buried,0.1678691804409027,Beta
+BE26,Acidic,Pathogenic,Acidic,BD26,Exposed,0.3392834961414337,Beta
+BA27,Hydrophobic,Pathogenic,Acidic,BD27,Buried,0.014098512940108776,Beta
+BL28,Hydrophobic,Pathogenic,Polar,BQ28,Buried,0.00990969780832529,Beta
+BG29,Special,Undocumented,Undocumented,Undocumented,Buried,0.05707986652851105,Beta
+BR30,Basic,Pathogenic,Polar,BS30,Buried,0.24247772991657257,Beta
+BL31,Hydrophobic,Undocumented,Undocumented,Undocumented,Buried,0.016795212402939796,Beta
+BL32,Hydrophobic,Likely pathogenic,Polar,BQ32,Buried,0.008003270253539085,Beta
+BV33,Hydrophobic,Uncertain significance,Hydrophobic,BM33,Buried,0.11820142716169357,Beta
+BV34,Hydrophobic,Likely pathogenic,Hydrophobic,BF34,Exposed,0.2647041380405426,Beta
+BY35,Aromatic,Pathogenic,Special,BC35,Buried,0.11226197332143784,Beta
+BP36,Special,Pathogenic,Basic,BH36,Exposed,0.403018981218338,Beta
+BW37,Aromatic,Undocumented,Undocumented,Undocumented,Exposed,0.25812819600105286,Beta
+BT38,Polar,Undocumented,Undocumented,Undocumented,Buried,0.01296923216432333,Beta
+BQ39,Polar,Uncertain significance,Basic,BH39,Exposed,0.26032185554504395,Beta
+BR40,Basic,Likely benign,Basic,BK40,Exposed,0.5931899547576904,Beta
+BF41,Hydrophobic,Uncertain significance,Polar,BS41,Buried,0.1450023651123047,Beta
+BF42,Hydrophobic,Pathogenic,Polar,BS42,Buried,0.0506734699010849,Beta
+BE43,Acidic,Benign,Polar,BQ43,Exposed,0.7760542631149292,Beta
+BS44,Polar,Uncertain significance,Special,BC44,Exposed,0.6471292972564697,Beta
+BF45,Hydrophobic,Uncertain significance,Polar,BS45,Buried,0.10727205872535706,Beta
+BG46,Special,Likely benign,Acidic,BE46,Exposed,0.5362465381622314,Beta
+BD47,Acidic,Uncertain significance,Acidic,BE47,Exposed,0.7898339033126831,Beta
+BL48,Hydrophobic,Undocumented,Undocumented,Undocumented,Buried,0.15142901241779327,Beta
+BS49,Polar,Uncertain significance,Hydrophobic,BF49,Exposed,0.7614885568618774,Beta
+BT50,Polar,Uncertain significance,Polar,BS50,Exposed,0.479897141456604,Beta
+BP51,Special,Uncertain significance,Polar,BT51,Exposed,0.33316195011138916,Beta
+BD52,Acidic,Uncertain significance,Hydrophobic,BV52,Exposed,0.712762176990509,Beta
+BA53,Hydrophobic,Undocumented,Undocumented,Undocumented,Exposed,0.39049169421195984,Beta
+BV54,Hydrophobic,Uncertain significance,Hydrophobic,BA54,Buried,0.06668978184461594,Beta
+BM55,Hydrophobic,Uncertain significance,Polar,BT55,Exposed,0.33234065771102905,Beta
+BG56,Special,Likely benign,Acidic,BD56,Exposed,0.7018705606460571,Beta
+BN57,Polar,Uncertain significance,Basic,BK57,Exposed,0.3280874788761139,Beta
+BP58,Special,Uncertain significance,Basic,BR58,Exposed,0.7489200830459595,Beta
+BK59,Basic,Uncertain significance,Polar,BN59,Exposed,0.5501775145530701,Beta
+BV60,Hydrophobic,Pathogenic,Acidic,BE60,Buried,0.038953233510255814,Beta
+BK61,Basic,Likely benign,Polar,BN61,Exposed,0.389975905418396,Beta
+BA62,Hydrophobic,Undocumented,Undocumented,Undocumented,Exposed,0.4638688564300537,Beta
+BH63,Basic,Pathogenic,Polar,BN63,Buried,0.15426775813102722,Beta
+BG64,Special,Uncertain significance,Hydrophobic,BA64,Buried,0.013103234581649303,Beta
+BK65,Basic,Undocumented,Undocumented,Undocumented,Exposed,0.484144002199173,Beta
+BK66,Basic,Likely pathogenic,Polar,BT66,Exposed,0.5009599924087524,Beta
+BV67,Hydrophobic,Pathogenic,Acidic,BE67,Buried,0.0324481800198555,Beta
+BL68,Hydrophobic,Pathogenic,Basic,BH68,Buried,0.05909181758761406,Beta
+BG69,Special,Likely benign,Acidic,BD69,Exposed,0.4381251037120819,Beta
+BA70,Hydrophobic,Undocumented,Undocumented,Undocumented,Buried,0.16516976058483124,Beta
+BF71,Hydrophobic,Uncertain significance,Hydrophobic,BL71,Buried,0.029884234070777893,Beta
+BS72,Polar,Undocumented,Undocumented,Undocumented,Exposed,0.31345778703689575,Beta
+BD73,Acidic,Likely benign,Polar,BN73,Exposed,0.5489346385002136,Beta
+BG74,Special,Uncertain significance,Polar,BS74,Buried,0.02206570655107498,Beta
+BL75,Hydrophobic,Undocumented,Undocumented,Undocumented,Buried,0.0664852187037468,Beta
+BA76,Hydrophobic,Undocumented,Undocumented,Undocumented,Exposed,0.5752431750297546,Beta
+BH77,Basic,Uncertain significance,Acidic,BD77,Exposed,0.45118671655654907,Beta
+BL78,Hydrophobic,Undocumented,Undocumented,Undocumented,Buried,0.16181056201457977,Beta
+BD79,Acidic,Likely benign,Aromatic,BY79,Exposed,0.8484929800033569,Beta
+BN80,Polar,Uncertain significance,Aromatic,BY80,Exposed,0.6111700534820557,Beta
+BL81,Hydrophobic,Uncertain significance,Hydrophobic,BF81,Buried,0.2056122124195099,Beta
+BK82,Basic,Pathogenic,Polar,BV82,Exposed,0.6476719379425049,Beta
+BG83,Special,Likely benign,Acidic,BD83,Exposed,0.472197949886322,Beta
+BT84,Polar,Uncertain significance,Hydrophobic,BA84,Buried,0.14753495156764984,Beta
+BF85,Hydrophobic,Pathogenic,Polar,BS85,Buried,0.10494181513786316,Beta
+BA86,Hydrophobic,Uncertain significance,Hydrophobic,BV86,Exposed,0.4402830898761749,Beta
+BT87,Polar,Benign,Hydrophobic,BI87,Exposed,0.42604559659957886,Beta
+BL88,Hydrophobic,Likely pathogenic,Special,BP88,Buried,0.024635061621665955,Beta
+BS89,Polar,Pathogenic,Basic,BR89,Buried,0.1907167136669159,Beta
+BE90,Acidic,Pathogenic,Basic,BV90,Exposed,0.6808866858482361,Beta
+BL91,Hydrophobic,Pathogenic,Special,BP91,Buried,0.2475075125694275,Beta
+BH92,Basic,Pathogenic,Polar,BQ92,Buried,0.18035487830638885,Beta
+BC93,Special,Uncertain significance,Aromatic,BW93,Exposed,0.2602403461933136,Beta
+BD94,Acidic,Pathogenic,Basic,BH94,Exposed,0.8152430653572083,Beta
+BK95,Basic,Likely benign,Acidic,BE95,Exposed,0.6044507026672363,Beta
+BL96,Hydrophobic,Uncertain significance,Special,BG96,Buried,0.23724624514579773,Beta
+BH97,Basic,Pathogenic,Polar,BQ97,Exposed,0.5912697315216064,Beta
+BV98,Hydrophobic,Pathogenic,Hydrophobic,BM98,Buried,0.13716262578964233,Beta
+BD99,Acidic,Pathogenic,Acidic,BE99,Exposed,0.4509485065937042,Beta
+BP100,Special,Pathogenic,Hydrophobic,BL100,Exposed,0.3358985185623169,Beta
+BE101,Acidic,Pathogenic,Acidic,BD101,Exposed,0.6417381167411804,Beta
+BN102,Polar,Benign,Polar,BT102,Buried,0.09130930155515671,Beta
+BF103,Hydrophobic,Pathogenic,Hydrophobic,BL103,Buried,0.027473747730255127,Beta
+BR104,Basic,Likely benign,Polar,BT104,Exposed,0.5533397793769836,Beta
+BL105,Hydrophobic,Uncertain significance,Hydrophobic,BF105,Buried,0.24840933084487915,Beta
+BL106,Hydrophobic,Pathogenic,Basic,BR106,Buried,0.008067038841545582,Beta
+BG107,Special,Uncertain significance,Hydrophobic,BV107,Buried,0.049819182604551315,Beta
+BN108,Polar,Undocumented,Undocumented,Undocumented,Exposed,0.4168086051940918,Beta
+BV109,Hydrophobic,Pathogenic,Hydrophobic,BL109,Buried,0.03565788269042969,Beta
+BL110,Hydrophobic,Pathogenic,Special,BP110,Buried,0.007030305452644825,Beta
+BV111,Hydrophobic,Likely benign,Hydrophobic,BL111,Buried,0.07451099157333374,Beta
+BC112,Special,Pathogenic,Basic,BR112,Buried,0.20480412244796753,Beta
+BV113,Hydrophobic,Uncertain significance,Acidic,BE113,Buried,0.028104567900300026,Beta
+BL114,Hydrophobic,Pathogenic,Special,BP114,Buried,0.012906207703053951,Beta
+BA115,Hydrophobic,Pathogenic,Acidic,BD115,Buried,0.1723107397556305,Beta
+BH116,Basic,Uncertain significance,Polar,BQ116,Exposed,0.5343841314315796,Beta
+BH117,Basic,Uncertain significance,Basic,BR117,Exposed,0.382182776927948,Beta
+BF118,Hydrophobic,Undocumented,Undocumented,Undocumented,Buried,0.1590491235256195,Beta
+BG119,Special,Uncertain significance,Acidic,BD119,Exposed,0.49750253558158875,Beta
+BK120,Basic,Uncertain significance,Polar,BN120,Exposed,0.7188340425491333,Beta
+BE121,Acidic,Pathogenic,Basic,BV121,Exposed,0.7117076516151428,Beta
+BF122,Hydrophobic,Undocumented,Undocumented,Undocumented,Buried,0.13835409283638,Beta
+BT123,Polar,Uncertain significance,Polar,BN123,Exposed,0.35285601019859314,Beta
+BP124,Special,Likely pathogenic,Basic,BR124,Exposed,0.6961762309074402,Beta
+BP125,Special,Undocumented,Undocumented,Undocumented,Exposed,0.6061710119247437,Beta
+BV126,Hydrophobic,Likely pathogenic,Special,BG126,Buried,0.061492398381233215,Beta
+BQ127,Polar,Pathogenic,Basic,BR127,Exposed,0.32016322016716003,Beta
+BA128,Hydrophobic,Undocumented,Undocumented,Undocumented,Exposed,0.47479984164237976,Beta
+BA129,Hydrophobic,Likely pathogenic,Special,BP129,Buried,0.10417070984840393,Beta
+BY130,Aromatic,Undocumented,Undocumented,Undocumented,Buried,0.03316400200128555,Beta
+BQ131,Polar,Uncertain significance,Acidic,BE131,Exposed,0.4523579776287079,Beta
+BK132,Basic,Likely benign,Polar,BQ132,Exposed,0.560612142086029,Beta
+BV133,Hydrophobic,Undocumented,Undocumented,Undocumented,Buried,0.03953871503472328,Beta
+BV134,Hydrophobic,Pathogenic,Acidic,BE134,Buried,0.018756169825792313,Beta
+BA135,Hydrophobic,Undocumented,Undocumented,Undocumented,Exposed,0.3933309316635132,Beta
+BG136,Special,Uncertain significance,Acidic,BD136,Buried,0.22223623096942902,Beta
+BV137,Hydrophobic,Undocumented,Undocumented,Undocumented,Buried,0.02112199366092682,Beta
+BA138,Hydrophobic,Undocumented,Undocumented,Undocumented,Buried,0.1130080297589302,Beta
+BN139,Polar,Undocumented,Undocumented,Undocumented,Exposed,0.6989828944206238,Beta
+BA140,Hydrophobic,Pathogenic,Polar,BT140,Buried,0.20652008056640625,Beta
+BL141,Hydrophobic,Uncertain significance,Hydrophobic,BV141,Buried,0.035206057131290436,Beta
+BA142,Hydrophobic,Pathogenic,Acidic,BD142,Exposed,0.4299926459789276,Beta
+BH143,Basic,Pathogenic,Polar,BQ143,Exposed,0.676850438117981,Beta
+BK144,Basic,Pathogenic,Polar,BN144,Exposed,0.5328019857406616,Beta
+BY145,Aromatic,Pathogenic,Special,BC145,Exposed,0.46703988313674927,Beta
+BH146,Basic,Pathogenic,Special,BP146,Exposed,0.6542243957519531,Beta
