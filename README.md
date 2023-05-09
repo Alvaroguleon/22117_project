@@ -17,9 +17,11 @@ The contents are structured as follows:
 │       ├── energies_alpha.csv
 │       └── energies_beta.csv
 ├── 01_scripts
+│   ├── 00_run.R
 │   ├── 01_processing_clinvar.R
 │   ├── 02_processing_energies.R
-│   └── 03_PCA.R
+│   ├── 03_PCA.R
+│   └── 04_Extra_plots.R
 ├── 02_figures
 │   ├── expo_full.png
 │   ├── expo_zoom.png
@@ -29,5 +31,8 @@ The contents are structured as follows:
 │   ├── res_mut_zoom.png
 │   ├── res_wt_full.png
 │   └── res_wt_zoom.png
-└── LICENSE
+├── LICENSE
+└── README.md
+
+
 </pre>
