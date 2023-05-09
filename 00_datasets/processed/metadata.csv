@@ -85,7 +85,7 @@ AL83,Hydrophobic,Undocumented,Undocumented,Undocumented,Buried,0.018656900152564
 AS84,Polar,Likely benign,Basic,AR84,Exposed,0.27289244532585144,Alpha
 AD85,Acidic,Uncertain significance,Basic,AH85,Exposed,0.5441563129425049,Alpha
 AL86,Hydrophobic,Undocumented,Undocumented,Undocumented,Buried,0.0995156317949295,Alpha
-AH87,Basic,Likely pathogenic,Polar,AQ87,Buried,0.22949877381324768,Alpha
+AH87,Basic,Pathogenic,Aromatic,AY87,Buried,0.22949877381324768,Alpha
 AA88,Hydrophobic,Pathogenic,Polar,AS88,Exposed,0.3917786478996277,Alpha
 AH89,Basic,Likely benign,Polar,AQ89,Exposed,0.5265323519706726,Alpha
 AK90,Basic,Likely benign,Polar,AT90,Exposed,0.623526930809021,Alpha
