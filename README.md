@@ -7,7 +7,8 @@ The contents are structured as follows:
 │   ├── processed
 │   │   ├── clinvar.txt
 │   │   ├── data.csv
-│   │   └── metadata.csv
+│   │   ├── metadata.csv
+│   │   └── pca_data.csv
 │   └── raw
 │       ├── E_Sequence.netsurfp.txt
 │       ├── F_Sequence.netsurfp.txt
@@ -35,4 +36,5 @@ The contents are structured as follows:
 │   └── residues_pca.png
 ├── LICENSE
 └── README.md
+
 </pre>
