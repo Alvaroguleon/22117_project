@@ -20,6 +20,20 @@ pca_data <- data.frame(
   Chain = metadata$Chain
 )
 
+# Create a data frame with the variance of each principal component
+var_df <- data.frame(
+  PC = paste0("PC", 1:ncol(pca$rotation)),
+  Variance = pca$sdev^2 / sum(pca$sdev^2)
+)
+
+# Sort the data frame by variance in decreasing order
+var_df <- var_df[order(-var_df$Variance),]
+
+# Create a bar plot
+ggplot(var_df, aes(x = PC, y = Variance)) +
+  geom_bar(stat = "identity", fill = "blue") +
+  labs(title = "Variance of Principal Components", x = "Principal Component", y = "Variance")
+
 # WILD TYPE FULL
 wt_full <- ggplot(pca_data, aes(x = PC1, y = PC2, 
                                 color = Residue_type, label = Residue)) +
