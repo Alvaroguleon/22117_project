@@ -20,6 +20,7 @@ pca_data <- data.frame(
   Chain = metadata$Chain
 )
 
+#write_csv(pca_data, "../00_datasets/processed/pca_data.csv")
 # Create a data frame with the variance of each principal component
 var_df <- data.frame(
   PC = paste0("PC", 1:ncol(pca$rotation)),
